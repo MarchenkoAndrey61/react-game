@@ -13,6 +13,7 @@ function App() {
     <div className="wrapper">
         TodoList
         <TodoList todos = {todos}/>
+        ----
     </div>
   );
 }
