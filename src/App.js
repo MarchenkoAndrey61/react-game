@@ -11,7 +11,8 @@ function App() {
 
   return (
     <div className="wrapper">
-      <TodoList todos = {todos}/>
+        TodoList
+        <TodoList todos = {todos}/>
     </div>
   );
 }
